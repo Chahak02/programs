@@ -31,10 +31,10 @@ void quicksort(int sort[],int low,int high){
 }
 int main(){
     int n;
-    printf("Enter the length of Array:-\n");
+    printf("Enter the Array length:-\n");
     scanf("%d",&n);
     int arr[n];
-    printf("Enter your Array elements:-\n");
+    printf("Enter the Array elements:-\n");
     for(int i=0;i<n;i++){
         scanf("%d",&arr[i]);
     }
