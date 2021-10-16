@@ -19,7 +19,7 @@ void dectoBin(int n)
 int main() 
 {
     int  num;
-    printf("\n Enter the Number");
+    printf("\n Enter the Number you want change");
     scanf("%d",&num);
     dectoBin(num);
  return 0;
