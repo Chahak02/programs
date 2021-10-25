@@ -1,1 +1,1 @@
-# java programs for begineer contribution
+# C Programs for Beginner Contribution
